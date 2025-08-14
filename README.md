@@ -1,9 +1,9 @@
 
 <h1 align="center">
   <a href="https://github.com/arafatnahid">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Arafat+Nahid" alt="Typing SVG">
   </a>
 </h1>
-
 <p align="left">
  <a href="https://www.youtube.com/@yourchannel" target="_blank">
   <img src="https://img.shields.io/static/v1?label=YouTube&message=Subscribe&color=FF0000&logo=youtube&logoColor=FFFFFF&style=for-the-badge" alt="Subscribe on YouTube" />
