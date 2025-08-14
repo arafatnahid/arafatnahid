@@ -13,27 +13,26 @@
 
 
 <h3 align="left">🌱 Current Focus</h3>
-- Web development and digital marketing
-- SEO optimization, Google Ads & Analytics
+- Web development and Web Analytics
 - Frontend and backend development
 
 <h3 align="left">👨‍💻 Projects & Contact</h3>
 <ul>
   <li>All projects: <a href="https://github.com/arafatnahid?tab=repositories" target="_blank">GitHub</a></li>
-  <li>💬 Ask me about web development, SEO, and digital marketing</li>
+  <li>💬 Ask me about Web development, SEO, and Digital Marketing</li>
   <li>📫 Contact: <strong>arafatnahid20@gmail.com</strong></li>
 </ul>
 
 <hr>
 
 <h3 align="left">🎓 Education</h3>
-- Completed B.Sc. in Educational Technology and Engineering
+- Completed B.Sc. in Educational Technology and Engineering at Gazipur Digital University
 
 <hr>
 
 <h3 align="left">🗃️ Selected Projects</h3>
 - <a href="https://www.arafatnahid.com">Portfolio Website</a>  
-  <h6>Technologies: WordPress, Elementor, HTML, CSS</h6>
+  <h6>Technologies: HTML, CSS, Bootstrap, PHP</h6>
 
 
 
