@@ -1,8 +1,6 @@
-## Hi there 👋
 
 <h1 align="center">
   <a href="https://github.com/arafatnahid">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Arafat+Nahid" alt="Typing SVG">
   </a>
 </h1>
 
@@ -23,22 +21,20 @@
 <ul>
   <li>All projects: <a href="https://github.com/arafatnahid?tab=repositories" target="_blank">GitHub</a></li>
   <li>💬 Ask me about web development, SEO, and digital marketing</li>
-  <li>📫 Contact: <strong>your.email@example.com</strong></li>
+  <li>📫 Contact: <strong>arafatnahid20@gmail.com</strong></li>
 </ul>
 
 <hr>
 
 <h3 align="left">🎓 Education</h3>
-- Completed Honors in Accounting
-
+- Completed B.sc in educational Technology and Engineering
 <hr>
 
 <h3 align="left">🗃️ Selected Projects</h3>
-- <a href="https://www.arafathossain.com">Portfolio Website</a>  
+- <a href="https://www.arafatnahid.com">Portfolio Website</a>  
   <h6>Technologies: WordPress, Elementor, HTML, CSS</h6>
 
-- <a href="https://www.digitalitpoint.com">Digital IT Point</a>  
-  <h6>Technologies: WordPress, SEO, Google Analytics, Google Ads</h6>
+
 
 <hr>
 
@@ -62,6 +58,9 @@
 ![JavaScript](https://img.shields.io/static/v1?&message=JavaScript&color=F7DF1E&logo=javascript)
 ![WordPress](https://img.shields.io/static/v1?&message=WordPress&color=21759B&logo=wordpress)
 ![Flutter](https://img.shields.io/static/v1?&message=Flutter&color=02569B&logo=flutter)
+![PHP](https://img.shields.io/static/v1?&message=PHP&color=777BB4&logo=php)
+
+
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/static/v1?&message=Git&color=F05032&logo=git)
@@ -70,16 +69,4 @@
 ![Linux](https://img.shields.io/static/v1?&message=Linux&color=000000&logo=linux)
 
 
-**arafatnahid/arafatnahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
