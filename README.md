@@ -27,7 +27,8 @@
 <hr>
 
 <h3 align="left">🎓 Education</h3>
-- Completed B.sc in educational Technology and Engineering
+- Completed B.Sc. in Educational Technology and Engineering
+
 <hr>
 
 <h3 align="left">🗃️ Selected Projects</h3>
