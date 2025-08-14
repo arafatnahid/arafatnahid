@@ -10,7 +10,7 @@
 </a>
 </p>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Coding" width="300" height="300">
+
 
 <h3 align="left">🌱 Current Focus</h3>
 - Web development and digital marketing
