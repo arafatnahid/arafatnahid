@@ -62,12 +62,24 @@
 ![PHP](https://img.shields.io/static/v1?&message=PHP&color=777BB4&logo=php)
 
 
+<h3 align="left"> Training</h3>
 
+- **Web Development** — Programming Hero
 ### Tools & Platforms
 ![Git](https://img.shields.io/static/v1?&message=Git&color=F05032&logo=git)
 ![Google Analytics](https://img.shields.io/static/v1?&message=GA4&color=34A853&logo=googleanalytics)
 ![Google Ads](https://img.shields.io/static/v1?&message=Google+Ads&color=4285F4&logo=googleads)
 ![Linux](https://img.shields.io/static/v1?&message=Linux&color=000000&logo=linux)
 
+### Database
+![MySQL](https://img.shields.io/static/v1?message=MySQL&color=4479A1&logo=mysql&logoColor=FFFFFF&label=)
+![MongoDB](https://img.shields.io/static/v1?message=MongoDB&color=47A248&logo=mongodb&logoColor=FFFFFF&label=)
+![Firebase](https://img.shields.io/static/v1?message=Firebase&color=FFCA28&logo=firebase&logoColor=000000&label=)
 
+### Machine Learning
+![PyTorch](https://img.shields.io/static/v1?message=PyTorch&color=EE4C2C&logo=pytorch&logoColor=FFFFFF&label=)
+![TensorFlow](https://img.shields.io/static/v1?message=TensorFlow&color=FF6F00&logo=tensorflow&logoColor=FFFFFF&label=)
+![NumPy](https://img.shields.io/static/v1?message=NumPy&color=013243&logo=numpy&logoColor=FFFFFF&label=)
+![Pandas](https://img.shields.io/static/v1?message=Pandas&color=150458&logo=pandas&logoColor=FFFFFF&label=)
+![Matplotlib](https://img.shields.io/static/v1?message=Matplotlib&color=11557C&logo=plotly&logoColor=FFFFFF&label=)
 -->
